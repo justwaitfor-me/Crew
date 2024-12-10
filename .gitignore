@@ -3,6 +3,10 @@
 Thumbs.db
 ehthumbs.db
 Icon?
+serverdata.json
+userdata.json
+TODO.md
+*.temp.md
 
 # Node.js
 node_modules/
@@ -117,8 +121,6 @@ docker-compose.yml
 
 # Logs
 *.log
-logs/
-log/
 
 # Miscellaneous
 *.bak
@@ -148,10 +150,6 @@ coverage/
 *.obj
 *.a
 *.lib
-
-# Jupyter Notebooks
-.ipynb_checkpoints/
-*.ipynb
 
 # Visual Studio Code
 .vscode/
